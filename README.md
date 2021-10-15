@@ -2,6 +2,7 @@
 
 * Večerné online školenie (praktický workshop) 2021 
 * Robime.it (Mentor Partners)
+* Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP
 * Odkazy: https://robime.it/vecerne-skolenie-ako-sa-stat-analytikom a https://www.vita.sk/online-kurzy-databazy-analytika/
 * Kontakt: miroslav.reiter@it-academy.sk
 
